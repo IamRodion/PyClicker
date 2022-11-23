@@ -14,7 +14,7 @@ banner = '''
             "Y88P"                                                        \n'''
 
 INFO = "\n[i] Herramientas que presiona teclas de forma automatica."
-INFO2 = "\n[i] Creado por Rodion (github.com/RodionButEncapsulated)\n"
+INFO2 = "\n[i] Creado por Rodion (github.com/IamRodion)\n"
 
 def cleanScreen(): # Función que limpia la pantalla.
     if os.name == 'posix': 
